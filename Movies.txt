@@ -1,72 +1,73 @@
 Title: 雄狮少年2
-Genre: 动画
+Genre: animation
 Director Name: 宋岳峰
 Studio: 万达影视
 Year: 2025
 
 Title: 周处除三害
-Genre: 剧情
+Genre: drama
 Director Name: 黄精甫
 Studio: 中国电影股份有限公司
 Year: 2023
 
 Title: 我们一起摇太阳
-Genre: 剧情
+Genre: drama
 Director Name: 韩延
 Studio: 光线影业
 Year: 2024
 
 Title: Inside Out 2
-Genre: Animation
+Genre: animation
 Director Name: Kelsey Mann
 Studio: Pixar Animation Studios
 Year: 2024
 
 Title: Dune: Part Two
-Genre: Sci-Fi
+Genre: fiction
 Director Name: Denis Villeneuve
 Studio: Legendary Pictures
 Year: 2024
 
 Title: Weapons
-Genre: Thriller
+Genre: horror
 Director Name: Zach Cregger
 Studio: New Line Cinema
 Year: 2025
 
 Title: 流浪地球2
-Genre: 科幻
+Genre: fiction
 Director Name: 郭帆
 Studio: 中国电影股份有限公司
 Year: 2023
 
-Title: 狂飙
-Genre: 动作
-Director Name: 徐纪周
-Studio: 腾讯影业
-Year: 2023
+Title: 唐人街探案
+Genre: comedy
+Director Name: 陈思诚
+Director Name: 戴墨
+Studio: 万达影视
+Year: 2025
 
 Title: 奇迹笨小孩
-Genre: 剧情
+Genre: drama
 Director Name: 文牧野
 Studio: 华谊兄弟
 Year: 2022
 
 Title: Spider-Man: Across the Spider-Verse
-Genre: Animation
+Genre: animation
 Director Name: Joaquim Dos Santos
 Director Name: Kemp Powers
 Studio: Sony Pictures
 Year: 2023
 
 Title: 封神第一部
-Genre: 奇幻
+Genre: fiction
 Director Name: 乌尔善
 Studio: 北京文化
 Year: 2023
 
 Title: 无名
-Genre: 悬疑
+Genre: fiction
 Director Name: 程耳
 Studio: Bona Film Group
 Year: 2023
